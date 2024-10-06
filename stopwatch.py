@@ -1,4 +1,3 @@
-
 import tkinter as tk # tkinter is used as gui/themed widget for buttons,windows,etc
 from tkinter import ttk 
 
